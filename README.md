@@ -70,7 +70,7 @@ Example Playbook
       - openshift-node-image
 
   roles:
-    - ovirt.cluster-upgrade
+    - ovirt-cluster-upgrade
 ```
 
 [![asciicast](https://asciinema.org/a/122760.png)](https://asciinema.org/a/122760)
